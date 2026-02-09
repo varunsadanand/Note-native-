@@ -30,3 +30,17 @@ The app allows users to create, view, edit, and manage notes efficiently with a 
 
 ## 📂 Project Structure
 
+
+---
+
+## ⚙️ Setup Instructions
+
+### 1️⃣ Prerequisites
+Make sure you have the following installed:
+- **Node.js**
+- **Git**
+- **Expo CLI**
+
+Install Expo CLI:
+```bash
+npm install -g expo-cli
