@@ -28,19 +28,62 @@ The app allows users to create, view, edit, and manage notes efficiently with a 
 
 ---
 
-## 📂 Project Structure
-
 
 ---
 
-## ⚙️ Setup Instructions
+## 📖 Usage
 
-### 1️⃣ Prerequisites
-Make sure you have the following installed:
-- **Node.js**
-- **Git**
-- **Expo CLI**
+### Create a Note
+1. Open the application
+2. Tap on **Add Note**
+3. Enter the note title and content
+4. Save the note
 
-Install Expo CLI:
-```bash
-npm install -g expo-cli
+### Edit a Note
+1. Select an existing note
+2. Modify the title or content
+3. Save the updated note
+
+### Delete a Note
+1. Long-press or tap the delete option on a note
+2. Confirm deletion
+
+---
+
+## 🔒 Best Practices Followed
+
+- Clean and modular component structure
+- Reusable UI components
+- Proper state management using React Hooks
+- Well-organized project folder structure
+- Type safety using TypeScript
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!
+
+1. Fork the repository
+2. Create a new feature branch
+3. Make your changes
+4. Commit and push your changes
+5. Open a Pull Request
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+## 📞 Support
+
+If you face any issues or have suggestions:
+- Open an issue in the repository
+- Or contact the developer directly
+
+---
+
+Happy coding! 🚀
